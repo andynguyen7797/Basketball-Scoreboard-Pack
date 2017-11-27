@@ -1,2 +1,2 @@
 This is the main scoreboard.
-Showing names, logos, fouls, time-outs, game time, team's score.
+Showing names, logos, fouls, time-outs, game time, team's score on big screen.
