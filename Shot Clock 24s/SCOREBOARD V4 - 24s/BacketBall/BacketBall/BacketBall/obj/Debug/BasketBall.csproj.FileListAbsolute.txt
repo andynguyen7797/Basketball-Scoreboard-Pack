@@ -1,0 +1,10 @@
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe.config
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.Form1.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.screen_form.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball.Properties.Resources.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall.csproj.GenerateResource.Cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe.licenses
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.pdb

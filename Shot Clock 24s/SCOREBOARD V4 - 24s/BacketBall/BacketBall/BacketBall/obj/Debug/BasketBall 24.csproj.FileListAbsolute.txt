@@ -1,0 +1,31 @@
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe.config
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.Form1.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.screen_form.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball.Properties.Resources.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall 24.csproj.GenerateResource.Cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe.licenses
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall 24.csprojResolveAssemblyReference.cache
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe.config
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe.manifest
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.application
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard - Shot Clock.pdb
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall 24.csprojResolveAssemblyReference.cache
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.Form1.resources
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.screen_form.resources
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball.Properties.Resources.resources
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall 24.csproj.GenerateResource.Cache
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe.licenses
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall 24.csproj.CoreCompileInputs.cache
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe.manifest
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.application
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.exe
+E:\SCOREBOARD V4 - 24s\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard - Shot Clock.pdb
