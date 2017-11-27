@@ -1,0 +1,32 @@
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe.config
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall.csprojResolveAssemblyReference.cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.Form1.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.screen_form.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball.Properties.Resources.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall.csproj.GenerateResource.Cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe.licenses
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.TrustInfo.xml
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe.config
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\bin\Debug\Basketball Scoreboard NDAV.pdb
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall.csprojResolveAssemblyReference.cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.Form1.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\BacketBall.screen_form.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball.Properties.Resources.resources
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\BasketBall.csproj.GenerateResource.Cache
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe.licenses
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.TrustInfo.xml
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe.manifest
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.application
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.exe
+E:\GIẢI BÓNG RỔ\SCOREBOARD V3 - SCOREBOARD - ETA4\BacketBall\BacketBall\BacketBall\obj\Debug\Basketball Scoreboard NDAV.pdb
